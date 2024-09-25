@@ -4,11 +4,9 @@ Project name : E-Commerce Website
 
 Team Member are :  
 
-Veer Pratap Singh
+Harsh Srivastva
 Vishal Kumar
-Rajababu Kumar Singh
-Aagman Mehto
-Mohit Patel
+
 
 
 Use Tools and software:
